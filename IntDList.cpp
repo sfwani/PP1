@@ -1,4 +1,4 @@
-#include "IntDList.hpp"
+#include "intDList.hpp"
 
 // Constructor
 IntDLList::IntDLList() : head(nullptr), tail(nullptr) {}
